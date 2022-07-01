@@ -1,0 +1,15 @@
+{
+  "name": "tactable-be",
+  "version": "0.0.1",
+  "description": "tactable backend take home",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:kodyang/tactable-be.git"
+  },
+  "author": "Kody Yang",
+  "license": "ISC"
+}
