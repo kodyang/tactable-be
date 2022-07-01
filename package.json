@@ -11,5 +11,12 @@
     "url": "github.com:kodyang/tactable-be.git"
   },
   "author": "Kody Yang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13"
+  }
 }
